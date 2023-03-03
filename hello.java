@@ -3,4 +3,8 @@ class hello{
 m2(){
 }
 
+//task 101-changes
+m1(){
+}
+
 }
